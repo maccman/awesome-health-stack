@@ -1,10 +1,12 @@
 # Awesome Health Stack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Everything you need to go founder mode on your health.
+> Take back control of your health. Go founder mode.
 
-The default path through healthcare is reactive. You get fifteen minutes with a doctor once something has already gone wrong, and a standard of care built for the average patient. Your insurer will probably change long before the heart attack it could have prevented. You're the only one with a lifelong reason to keep yourself healthy, so run it like a founder: measure everything, catch problems early and make the calls yourself.
+Healthcare waits for something to break. Then you get fifteen minutes with a doctor and a standard of care built for the average patient. You'll probably switch insurers long before the heart attack any of them could have prevented.
 
-Most of that no longer needs a referral. Get a baseline from your blood, sequence your genome, scan what you can't see, wear sensors that report all day, and hand the lot to an AI that reads it like a chief medical officer. This is the stack.
+You're the only one with a lifelong stake in your body, so run it like a founder. Read your blood every few months. Sequence your genome. Scan what you can't see. Wear sensors that never switch off, and put an AI on all of it that reads your data like your own chief medical officer. None of it needs a referral.
+
+This is the stack.
 
 ## Contents
 
