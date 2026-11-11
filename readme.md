@@ -1,12 +1,6 @@
 # Awesome Health Stack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Take back control of your health. Go founder mode.
-
-Healthcare waits for something to break. Then you get fifteen minutes with a doctor and a standard of care built for the average patient. You'll probably switch insurers long before the heart attack any of them could have prevented.
-
-You're the only one with a lifelong stake in your body, so run it like a founder. Read your blood every few months. Sequence your genome. Scan what you can't see. Wear sensors that never switch off, and put an AI on all of it that reads your data like your own chief medical officer. None of it needs a referral.
-
-This is the stack.
+> Places I've found to get health data without going through a doctor first. Mostly US. PRs welcome.
 
 ## Contents
 
@@ -23,8 +17,6 @@ This is the stack.
 - [Paying for care](#paying-for-care)
 
 ## Blood testing
-
-Start with a real baseline, measured often enough to see trends.
 
 - [Empirical Health](https://www.empirical.health) - 100+ biomarkers focused on heart health, drawn at a local testing site, with nutrition plans and medical care.
 - [Everlywell](https://www.everlywell.com) - More than 30 at-home test kits, plus virtual care with licensed providers.
@@ -47,8 +39,6 @@ Start with a real baseline, measured often enough to see trends.
 
 ## DNA, aging and the microbiome
 
-Sequence your source code once and keep reading it as the research catches up.
-
 - [23andMe](https://www.23andme.com) - Genetic testing for ancestry and health reports.
 - [DNA Complete](https://dnacomplete.com) - Whole-genome sequencing from Nebula Genomics, with health and ancestry reports.
 - [Genome Computer](https://genome.computer) - Whole-genome sequencing delivered as a file bundle your AI assistant can read.
@@ -62,8 +52,6 @@ Sequence your source code once and keep reading it as the research catches up.
 
 ## Body scans
 
-See inside instead of waiting for symptoms.
-
 - [BodySpec](https://www.bodyspec.com) - 15-minute DEXA scans for body fat, muscle and bone density.
 - [Ezra](https://ezra.com) - MRI screening of up to 13 organs, now offered with Function Health.
 - [Human Longevity](https://www.humanlongevity.com) - One-visit assessment with full-body MRI, whole genome sequencing and 120+ biomarkers.
@@ -74,8 +62,6 @@ See inside instead of waiting for symptoms.
 
 ## Glucose and metabolic health
 
-Watch how your body responds to food in real time.
-
 - [Levels](https://www.levels.com) - App that shows how food, sleep, exercise and stress affect your metabolic health.
 - [Lingo](https://www.hellolingo.com) - Abbott's over-the-counter glucose biosensor and app.
 - [Nutrisense](https://www.nutrisense.io) - Continuous glucose monitoring with video calls with a dietitian.
@@ -83,8 +69,6 @@ Watch how your body responds to food in real time.
 - [Stelo](https://www.stelo.com) - Dexcom's over-the-counter glucose biosensor for adults who don't use insulin.
 
 ## Wearables and sleep
-
-Continuous telemetry for sleep, recovery and your heart.
 
 - [Eight Sleep](https://www.eightsleep.com) - Mattress cover that cools and heats each side of the bed.
 - [Oura](https://ouraring.com) - Smart ring that tracks sleep, activity, stress and more than 50 other metrics.
@@ -94,8 +78,6 @@ Continuous telemetry for sleep, recovery and your heart.
 
 ## AI doctors
 
-Care that starts with AI and has a doctor behind it.
-
 - [Clara](https://askclara.com) - Primary care membership supported by AI.
 - [Counsel Health](https://www.counselhealth.com) - Chat with medical AI and reach a doctor in one click.
 - [Doctronic](https://www.doctronic.ai) - Free AI doctor that turns your symptoms into an action plan.
@@ -104,8 +86,6 @@ Care that starts with AI and has a doctor behind it.
 - [Picardo](https://picardo.health) - Personal health agent that orders your blood tests, explains your results and puts you in touch with a doctor.
 
 ## AI and your health data
-
-Give an assistant your records and let it act as your chief medical officer.
 
 - [Apple Health MCP Server](https://github.com/the-momentum/apple-health-mcp-server) - Query your Apple Health export in plain English from an AI assistant.
 - [Hale](https://hale.med) - Tracks medications and interprets labs for people with chronic conditions.
