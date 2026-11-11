@@ -47,7 +47,6 @@ Prices are the lowest each company lists on its own site, checked 11 November 20
 
 | Service | What you get | Price |
 |:--|:--|--:|
-| [23andMe](https://www.23andme.com) | Genetic testing for ancestry and health reports. | $79+ |
 | [DNA Complete](https://dnacomplete.com) | Whole-genome sequencing from Nebula Genomics, with health and ancestry reports. | $245+ |
 | [Genome Computer](https://genome.computer) | Whole-genome sequencing delivered as a file bundle your AI assistant can read. | $599 |
 | [Level Genomics](https://levelgenomics.com) | Clinical-grade whole-genome sequencing with AI tools for exploring your data. | $599 |
