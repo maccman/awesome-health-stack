@@ -64,6 +64,7 @@ Prices are the lowest each company lists on its own site, checked 11 November 20
 |:--|:--|--:|
 | [BodySpec](https://www.bodyspec.com) | 15-minute DEXA scans for body fat, muscle and bone density. | $39+ |
 | [Ezra](https://ezra.com) | MRI screening of up to 13 organs, now offered with Function Health. | $999+ |
+| [Fitnescity](https://www.fitnescity.com) | Books DEXA scans, VO2 max, Resting Metabolic Rate tests, CT Calcium Score tests and MRIs at partner facilities across the US. | $100+ |
 | [Human Longevity](https://www.humanlongevity.com) | One-visit assessment with full-body MRI, whole genome sequencing and 120+ biomarkers. | $8,500+ |
 | [Longhorn Imaging](https://www.longhornimaging.com) | MRI and radiology in Austin, Texas, with flexible payment plans. | — |
 | [Neko Health](https://www.nekohealth.com) | One-hour scan of skin, heart, circulation and 50+ blood markers, with a clinician going through the results at the same visit. | $499 |
