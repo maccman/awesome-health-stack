@@ -43,6 +43,7 @@
 - [DNA Complete](https://dnacomplete.com) - Whole-genome sequencing from Nebula Genomics, with health and ancestry reports.
 - [Genome Computer](https://genome.computer) - Whole-genome sequencing delivered as a file bundle your AI assistant can read.
 - [Level Genomics](https://levelgenomics.com) - Clinical-grade whole-genome sequencing with AI tools for exploring your data.
+- [Picardo](https://picardo.health/guides/whole-genome-sequencing) - 30x whole-genome sequencing from a cheek swab, re-checked as research is published, with the report in the app.
 - [SelfDecode](https://selfdecode.com) - DNA-based reports on health predispositions, with diet, supplement and lifestyle recommendations.
 - [Sequencing.com](https://sequencing.com) - Whole-genome sequencing from a saliva kit, or upload existing DNA data, with reports reanalyzed as research changes.
 - [Tally Health](https://tallyhealth.com) - Biological-age testing membership and daily supplements.
