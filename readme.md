@@ -93,49 +93,59 @@ Prices are the lowest each company lists on its own site, checked 11 November 20
 
 ## AI doctors
 
-- [Clara](https://askclara.com) - Primary care membership supported by AI.
-- [Counsel Health](https://www.counselhealth.com) - Chat with medical AI and reach a doctor in one click.
-- [Doctronic](https://www.doctronic.ai) - Free AI doctor that turns your symptoms into an action plan.
-- [FutureClinic](https://futureclinic.com) - Care from licensed doctors entirely through chat, starting with an AI assistant.
-- [Lotus AI](https://lotus.ai) - Personalized care that combines licensed doctors, your health records and medical AI.
-- [Picardo](https://picardo.health) - Personal health agent that orders your blood tests, explains your results and puts you in touch with a doctor.
+| Service | What you get | Price |
+|:--|:--|--:|
+| [Clara](https://askclara.com) | Primary care membership supported by AI. | $25+/mo |
+| [Counsel Health](https://www.counselhealth.com) | Chat with medical AI and reach a doctor in one click. | Free, $29/visit |
+| [Doctronic](https://www.doctronic.ai) | Free AI doctor that turns your symptoms into an action plan. | Free, $39/visit |
+| [FutureClinic](https://futureclinic.com) | Care from licensed doctors entirely through chat, starting with an AI assistant. | $5+/visit |
+| [Lotus AI](https://lotus.ai) | Personalized care that combines licensed doctors, your health records and medical AI. | — |
+| [Picardo](https://picardo.health) | Personal health agent that orders your blood tests, explains your results and puts you in touch with a doctor. | — |
 
 ## AI and your health data
 
-- [Apple Health MCP Server](https://github.com/the-momentum/apple-health-mcp-server) - Query your Apple Health export in plain English from an AI assistant.
-- [Hale](https://hale.med) - Tracks medications and interprets labs for people with chronic conditions.
-- [Open Humans](https://www.openhumans.org) - Explore your own data, from genomes to GPS, and donate it to research.
-- [Open Wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform that brings wearable data together behind one API.
-- [Picardo MCP server](https://picardo.health/docs/claude) - Lets Claude and other assistants browse Picardo's blood test panels and Labcorp tests with prices, and prepare a link to order.
+| Service | What you get | Price |
+|:--|:--|--:|
+| [Apple Health MCP Server](https://github.com/the-momentum/apple-health-mcp-server) | Query your Apple Health export in plain English from an AI assistant. | Free |
+| [Hale](https://hale.med) | Tracks medications and interprets labs for people with chronic conditions. | $15/mo |
+| [Open Humans](https://www.openhumans.org) | Explore your own data, from genomes to GPS, and donate it to research. | Free |
+| [Open Wearables](https://github.com/the-momentum/open-wearables) | Self-hosted platform that brings wearable data together behind one API. | Free |
+| [Picardo MCP server](https://picardo.health/docs/claude) | Lets Claude and other assistants browse Picardo's blood test panels and Labcorp tests with prices, and prepare a link to order. | Free |
 
 ## Clinics and care teams
 
-- [Atria](https://www.atria.org) - Preventive health and research institute with a membership practice.
-- [Fountain Life](https://www.fountainlife.com) - Longevity membership built around AI-guided diagnostics.
-- [Lifeforce](https://www.mylifeforce.com) - Longevity medicine program with biomarker testing and coaching.
-- [Marek Health](https://marekhealth.com) - Lab panels with a health coach and provider-prescribed treatment.
-- [MEDgevity](https://www.medgevityhealth.com) - Physician-led longevity care with a dietitian, an exercise physiologist and 100+ biomarkers.
-- [One Medical](https://www.onemedical.com) - Primary care, in person and virtual, that takes most insurance plans.
-- [Parsley Health](https://www.parsleyhealth.com) - Functional medicine clinicians, by video or in person, with advanced lab testing.
-- [Sesame](https://sesamecare.com) - Book cash-price visits, labs and specialists without insurance.
-- [Sollis Health](https://www.sollishealth.com) - Members-only concierge medicine with 24/7 urgent and emergency care.
+| Service | What you get | Price |
+|:--|:--|--:|
+| [Atria](https://www.atria.org) | Preventive health and research institute with a membership practice. | — |
+| [Fountain Life](https://www.fountainlife.com) | Longevity membership built around AI-guided diagnostics. | — |
+| [Lifeforce](https://www.mylifeforce.com) | Longevity medicine program with biomarker testing and coaching. | — |
+| [Marek Health](https://marekhealth.com) | Lab panels with a health coach and provider-prescribed treatment. | $299 to start |
+| [MEDgevity](https://www.medgevityhealth.com) | Physician-led longevity care with a dietitian, an exercise physiologist and 100+ biomarkers. | $249+/mo |
+| [One Medical](https://www.onemedical.com) | Primary care, in person and virtual, that takes most insurance plans. | — |
+| [Parsley Health](https://www.parsleyhealth.com) | Functional medicine clinicians, by video or in person, with advanced lab testing. | $150+/mo |
+| [Sesame](https://sesamecare.com) | Book cash-price visits, labs and specialists without insurance. | $34+/visit |
+| [Sollis Health](https://www.sollishealth.com) | Members-only concierge medicine with 24/7 urgent and emergency care. | $4,000+/yr |
 
 ## Fertility
 
-- [Fellow](https://www.meetfellow.com) - Mail-in semen analysis from a CLIA-certified lab.
-- [Herasight](https://www.herasight.com) - Compares the genetic disease risks of IVF embryos.
-- [Nucleus](https://mynucleus.com) - At-home genetic testing for couples planning a baby, and embryo screening for IVF.
-- [Path Fertility](https://pathfertility.com) - SpermQT, a test of sperm function for men and couples.
-- [Xella Health](https://joinxella.com) - Women's health testing across hormones and metabolism, with clinical care.
+| Service | What you get | Price |
+|:--|:--|--:|
+| [Fellow](https://www.meetfellow.com) | Mail-in semen analysis from a CLIA-certified lab. | — |
+| [Herasight](https://www.herasight.com) | Compares the genetic disease risks of IVF embryos. | — |
+| [Nucleus](https://mynucleus.com) | At-home genetic testing for couples planning a baby, and embryo screening for IVF. | — |
+| [Path Fertility](https://pathfertility.com) | SpermQT, a test of sperm function for men and couples. | $385+ |
+| [Xella Health](https://joinxella.com) | Women's health testing across hormones and metabolism, with clinical care. | $499+ |
 
 ## Paying for care
 
-- [CrowdHealth](https://www.joincrowdhealth.com) - Members fund each other's medical bills instead of paying insurance premiums.
-- [GoodRx](https://www.goodrx.com) - Compare prescription prices and get discounts at pharmacies.
-- [Knew Health](https://www.knewhealth.com) - Medical cost-sharing membership, an alternative to health insurance.
-- [MDsave](https://www.mdsave.com) - Upfront, bundled prices for medical procedures at hospitals and clinics.
-- [Opolis](https://opolis.co) - Member-owned employment cooperative giving independent workers payroll and group benefits.
-- [Zion HealthShare](https://zionhealthshare.org) - Nonprofit medical cost-sharing community, an alternative to health insurance.
+| Service | What you get | Price |
+|:--|:--|--:|
+| [CrowdHealth](https://www.joincrowdhealth.com) | Members fund each other's medical bills instead of paying insurance premiums. | $25/mo |
+| [GoodRx](https://www.goodrx.com) | Compare prescription prices and get discounts at pharmacies. | Free |
+| [Knew Health](https://www.knewhealth.com) | Medical cost-sharing membership, an alternative to health insurance. | $178+/mo |
+| [MDsave](https://www.mdsave.com) | Upfront, bundled prices for medical procedures at hospitals and clinics. | — |
+| [Opolis](https://opolis.co) | Member-owned employment cooperative giving independent workers payroll and group benefits. | $97 |
+| [Zion HealthShare](https://zionhealthshare.org) | Nonprofit medical cost-sharing community, an alternative to health insurance. | $114+/mo |
 
 ## Contributing
 
