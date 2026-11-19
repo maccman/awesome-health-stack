@@ -110,6 +110,7 @@ Prices are the lowest each company lists on its own site, checked 11 November 20
 | [Open Humans](https://www.openhumans.org) | Explore your own data, from genomes to GPS, and donate it to research. | Free |
 | [Open Wearables](https://github.com/the-momentum/open-wearables) | Self-hosted platform that brings wearable data together behind one API. | Free |
 | [Picardo MCP server](https://picardo.health/docs/claude) | Lets Claude and other assistants browse Picardo's blood test panels and Labcorp tests with prices, and prepare a link to order. | Free |
+| [Wellnizz](https://wellnizz.com) | Explains your lab results, DNA files and wearable data inside your AI assistant over MCP, with a weekly action plan. | Free |
 
 ## Clinics and care teams
 
