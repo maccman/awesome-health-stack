@@ -85,6 +85,7 @@ Prices are the lowest each company lists on its own site, checked 11 November 20
 | Service | What you get | Price |
 |:--|:--|--:|
 | [Eight Sleep](https://www.eightsleep.com) | Mattress cover that cools and heats each side of the bed. | $1,999+ |
+| [KeepOkey](https://keepokey.com) | Cellular watch with fall-triggered calls to chosen family contacts | $159.90 one time + your carrier plan |
 | [Oura](https://ouraring.com) | Smart ring that tracks sleep, activity, stress and more than 50 other metrics. | $399+ |
 | [Ultrahuman](https://www.ultrahuman.com) | Titanium smart ring for sleep, recovery and heart data, with no required subscription. | $479 |
 | [WHOOP](https://www.whoop.com) | Wearable and membership covering sleep, strain, stress and heart health. | $199+/yr |
